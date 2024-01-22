@@ -43,4 +43,4 @@ Information about the tests conducted and how to run them on your system
 ## Licensing
 MIT License  
 
-Copyright (c) 2022 OBEwan
+Copyright (c) 2022 OBE-WAN
